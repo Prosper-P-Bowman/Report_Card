@@ -1,0 +1,342 @@
+body{
+    box-sizing: 0;
+
+}
+/* The headling */
+.headling{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    
+}
+.headling h2{
+    /* color: red; */
+    margin-bottom: -16px;
+}
+.headling h3{
+    margin-bottom: -12px;
+    font-weight: lighter;
+}
+.headling p{
+
+}
+.divider{
+    margin-left: 260px;
+    width: 60%;
+    /* background-color: blue; */
+    display: flex;
+    gap: 10%;
+    flex-direction: row;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+    margin-bottom: -6px;
+    margin-top: -35px;
+}
+.studentreport{
+    text-align: left;
+    /* background-color: red; */
+    width: 500PX;
+    height: 25px;
+}
+.courtesy{
+    text-align: right;
+    /* background-color: green; */
+    width: 500PX;
+    height: 25px;
+}
+.line{
+    margin-bottom: 20px;
+    margin-left: 260px;
+    width: 60%;
+    /* background-color: blue; */
+    text-align: center;
+    align-items: center;
+}
+
+
+/* The headling close */
+
+/* The table nav bar */
+nav{
+    background-color: rgb(238, 238, 195);
+    /* width: 100%; */
+    height: 150vh;
+    align-content: center;
+    align-self: center;
+}
+.main{
+    align-items: center;
+    margin-bottom: 420px;
+}
+.main table{
+    width: 60%;
+    /* background-color: green; */
+    margin-left: 260px;
+}
+table, tr, th, td{
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid 1px;
+    border-collapse: collapse;
+}
+/* .title{
+   
+} */
+.name{
+    margin: 5px;
+    height: 60px;
+    width: 100px;
+    text-align: center;
+    font-weight: bold;
+}
+.name div{
+    margin-top: 40px;
+}
+.prosper{
+    width: 410px;
+}
+.prosper div{
+    /* color: blue; */
+    margin-bottom: 21px;
+    margin-left: 2px;
+}
+.year{
+    height: 60px;
+    width: 50px;
+    text-align: center;
+}
+.year div{
+    /* color: red; */
+}
+/* .date{
+
+} */
+.date div{
+    /* color: green; */
+    margin-bottom: 21px;
+    margin-left: 2px;
+}
+.grade{
+    text-align: center;
+    height: 40px;
+    width: 160px;
+}
+.grade div{
+    text-align: center;
+}
+.twelve{
+    /* text-align: center; */
+    width: 350px;
+}
+.twelve div{
+    margin-left: 2px;
+}
+.Date{
+    text-align: right;
+    width: 100px;
+}
+.Date div{
+    /* color: red; */
+    margin-right: 5px;
+}
+.august{
+    
+}
+.august div{
+    margin-left: 2px;
+}
+.finaloff{
+    
+    height: 8vh;
+}
+.final{
+    text-align: center;
+    font-weight: bold;
+}
+.schedule{
+    height: 8vh;
+    /* text-align: center; */
+}
+.schedule .subject{
+    text-align: center;
+    width: 150px;
+    height: 80px;
+}
+.schedule .subject div{
+    margin-top: 50px;
+    font-weight: bold;
+}
+.schedule .first{
+    width: 58px;
+    font-weight: bold;
+}
+.schedule .first div{
+    margin-left: 3px;
+}
+.schedule .second{
+    width: 58px;
+    font-weight: bold;
+}
+.schedule .second div{
+    margin-left: 3px;
+}
+.schedule .third{
+    width: 58px;
+    font-weight: bold;
+}
+.schedule .third div{
+    margin-left: 3px;
+}
+.schedule .firstsemester{
+    width: 80px;
+    font-weight: bold;
+}
+.schedule .firstsemester div{
+    margin-left: 3px;
+}
+.schedule .fourth{
+    width: 58px;
+    font-weight: bold;
+}
+.schedule .fourth div{
+    margin-left: 3px;
+}
+.schedule .fifth{
+    width: 58px;
+    font-weight: bold;
+}
+.schedule .fifth div{
+    margin-left: 3px;
+}
+.schedule .sixth{
+    width: 58px;
+    font-weight: bold;
+}
+.schedule .sixth div{
+    margin-left: 3px;
+}
+.schedule .secondsemester{
+    width: 88px;
+    font-weight: bold;
+}
+.schedule .secondsemester div{
+    margin-left: 5px;
+}
+.schedule .finalexam{
+    width: 60px;
+    font-weight: bold;
+}
+.schedule .finalexam div{
+    margin-left: 5px;
+}
+.schedule .avg{
+    width: 50px;
+    font-weight: bold;
+}
+.schedule .avg div{
+    margin-left: 6px;
+}
+.schedule .math{
+    height: 40px;
+    /* color: red; */
+}
+.schedule .math div{
+    margin-left: 5px;
+}
+.schedule .geography{
+    height: 40px;
+    /* color: red; */
+    margin-left: 2px;
+}
+.schedule .geography div{
+    margin-left: 5px;
+}										
+.schedule .physics{
+    height: 40px;
+    /* color: red; */
+    margin-left: 2px;
+}
+.schedule .physics div{
+    margin-left: 5px;
+}									
+.schedule .chemical{
+    height: 40px;
+    /* color: red; */
+    margin-left: 2px;
+}
+.schedule .chemical div{
+    margin-left: 5px;
+}										
+.schedule .IT{
+    height: 40px;
+    /* color: red; */
+    margin-left: 2px;
+}
+.schedule .IT div{
+    margin-left: 5px;
+}
+.schedule .history{
+    height: 40px;
+    /* color: red; */
+    margin-left: 2px;
+}
+.schedule .history div{
+    margin-left: 5px;
+}										
+.schedule .english{
+    height: 40px;
+    /* color: red; */
+    margin-left: 2px;
+}
+.schedule .english div{
+    margin-left: 5px;
+}										
+.schedule .science{
+    height: 40px;
+    /* color: red; */
+    margin-left: 2px;
+}
+.schedule .science div{
+    margin-left: 5px;
+}
+.schedule .space{
+    height: 40px;
+    /* color: red; */
+    margin-left: 2px;
+}
+.schedule .periodic{
+    height: 40px;
+    /* color: red; */
+    margin-left: 2px;
+}
+.schedule .periodic div{
+    margin-left: 5px;
+}
+.schedule .annual{
+    height: 40px;
+    /* color: red; */
+    margin-left: 2px;
+}
+.schedule .annual div{
+    margin-left: 5px;
+}
+#math1 div, 
+#math2 div,
+#math3 div,
+#math5 div,
+#math6 div,
+#math7 div,
+#math8 div,
+#math9 div,
+#math10 div
+{
+    text-align: center;
+    color: blue;
+}
+#math4 div{
+    text-align: center;
+    color: red;
+}
+#math11{
+    text-align: center;
+}
